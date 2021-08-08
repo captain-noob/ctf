@@ -73,8 +73,10 @@ ftp> exit
 ##### INFO.TXT
 
 ```bash
-┌──(kali㉿kali)-[~/Desktop/thm/aa]                             └─$ cat info.txt                         
-you know how to find secret files :P                           Have Fun :)  
+┌──(kali㉿kali)-[~/Desktop/thm/aa]                             
+└─$ cat info.txt                         
+you know how to find secret files :P                          
+Have Fun :)  
 ```
 
 
