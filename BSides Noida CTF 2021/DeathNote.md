@@ -4,7 +4,11 @@
 
 ![image-20210808031224967](image/image-20210808031224967.png)
 
-## Crack
+Challenge:
+Official : https://ctf.bsidesnoida.in/
+Try Hack Me : https://tryhackme.com/room/bsidesnoida2021ctfn6
+
+## Solution
 
 ### PORT Scan
 
